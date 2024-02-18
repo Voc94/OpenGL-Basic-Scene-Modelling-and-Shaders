@@ -1,0 +1,46 @@
+# Blender 4.0.2 MTL File: 'tower.blend'
+# www.blender.org
+
+newmtl lambert2
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/germany010.jpg
+map_Bump textures/germany010b.jpg
+
+newmtl lambert3
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/brck91L.jpg
+map_Bump textures/brck91Lb.jpg
+
+newmtl lambert4
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/wndw107M.jpg
+map_Bump textures/wndw107Mb.jpg
+
+newmtl lambert5
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd textures/wndw038M.jpg
+map_Bump textures/wndw038M.jpg

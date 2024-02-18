@@ -1,0 +1,29 @@
+# Blender 4.0.2 MTL File: 'fir_sapling_1k.blend'
+# www.blender.org
+
+newmtl fir_sapling_branches
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd fir_sapling_branches_diff_1k.png
+map_Ns fir_sapling_branches_rough_1k.png
+map_Bump -bm 1.000000 fir_sapling_branches_nor_gl_1k.png
+map_d fir_sapling_branches_disp_1k.png
+
+newmtl fir_sapling_twigs
+Ns 435.599945
+Ka 1.000000 1.000000 1.000000
+Kd 0.077045 0.141261 0.037779
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fir_sapling_twigs_diff_1k.png
+map_d fir_sapling_twigs_mask_1k.png
+map_Bump -bm 1.000000 fir_sapling_twigs_nor_gl_1k.png
+map_Ns fir_sapling_twigs_rough_1k.png
+map_a fir_sapling_twigs_alpha_1k.png
